@@ -1,0 +1,1 @@
+{"AWS_ACCESS_KEY_ID": "your_aws_access_key", "AWS_SECRET_ACCESS_KEY": "your_aws_secret_access_key", "AWS_DEFAULT_REGION": "region", "ROLE_NAME": "your_role_for_sagemaker", "HF_TOKEN": "hugging_face_token"}
